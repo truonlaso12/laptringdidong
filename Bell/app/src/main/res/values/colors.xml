@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="cam">#FF825A</color>
+    <color name="xamnhe">#F6F6F6</color>
+    <color name="xam">#33787777</color>
+    <color name="den">#000</color>
+    <color name="trongsuot">#00000000</color>
+</resources>
